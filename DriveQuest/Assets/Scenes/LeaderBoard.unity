@@ -4699,9 +4699,37 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4426968296646252664, guid: e387186c9cef8374791b54c94c9697ad, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -240
+      objectReference: {fileID: 0}
     - target: {fileID: 4889073417864083627, guid: e387186c9cef8374791b54c94c9697ad, type: 3}
       propertyPath: m_Name
       value: Nav
+      objectReference: {fileID: 0}
+    - target: {fileID: 5729534162795706392, guid: e387186c9cef8374791b54c94c9697ad, type: 3}
+      propertyPath: m_Color.b
+      value: 0.40784317
+      objectReference: {fileID: 0}
+    - target: {fileID: 5729534162795706392, guid: e387186c9cef8374791b54c94c9697ad, type: 3}
+      propertyPath: m_Color.g
+      value: 0.35686275
+      objectReference: {fileID: 0}
+    - target: {fileID: 5729534162795706392, guid: e387186c9cef8374791b54c94c9697ad, type: 3}
+      propertyPath: m_Color.r
+      value: 0.3372549
+      objectReference: {fileID: 0}
+    - target: {fileID: 8920526993695263784, guid: e387186c9cef8374791b54c94c9697ad, type: 3}
+      propertyPath: m_Color.b
+      value: 0.23137257
+      objectReference: {fileID: 0}
+    - target: {fileID: 8920526993695263784, guid: e387186c9cef8374791b54c94c9697ad, type: 3}
+      propertyPath: m_Color.g
+      value: 0.68235296
+      objectReference: {fileID: 0}
+    - target: {fileID: 8920526993695263784, guid: e387186c9cef8374791b54c94c9697ad, type: 3}
+      propertyPath: m_Color.r
+      value: 0.08627451
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4716,6 +4744,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2002490890}
     m_Modifications:
+    - target: {fileID: 638381376017338813, guid: 567b8b59230b0ed48adee1a623e4b39b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -120
+      objectReference: {fileID: 0}
     - target: {fileID: 835117707148371035, guid: 567b8b59230b0ed48adee1a623e4b39b, type: 3}
       propertyPath: m_Name
       value: Up
