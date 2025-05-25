@@ -1,0 +1,5 @@
+Scene2
+icon color 494949
+Nivel  level
+Moneda   tire
+misión flag
