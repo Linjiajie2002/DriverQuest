@@ -3094,6 +3094,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PopUp
       objectReference: {fileID: 0}
+    - target: {fileID: 4288536921304760094, guid: 668f9b3765d16a7499b52ccaf3831ed2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5644202315230676168, guid: 668f9b3765d16a7499b52ccaf3831ed2, type: 3}
       propertyPath: m_LocalScale.x
       value: 11.429927
